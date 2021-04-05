@@ -1,0 +1,15 @@
+.uncontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+.back {
+  width: 100%;
+}
