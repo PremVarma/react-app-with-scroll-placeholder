@@ -19,10 +19,10 @@ const SkeletonCard = () => {
                 <Skeleton height={26} width={100} />
               </h4>
               <p className={classes.card_channel}>
-                <Skeleton width={100} />
+                <Skeleton width={'60%'} />
               </p>
               <p className={classes.card_channel}>
-                <Skeleton width={`60%`} />
+                <Skeleton width={100} />
               </p>
               <div className={classes.card_metrics}>
                 <Skeleton height={40} width={`100%`} />
