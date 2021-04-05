@@ -74,9 +74,9 @@ export const Home: FC<any> = () => {
     <div>
       <div className="container">
         <ul className="topnav">
-          <li className="left">
+          {/* <li className="left">
             <span>Home</span>
-          </li>
+          </li> */}
           <li className="right">
             <span onClick={handleLogout}>Logout</span>
           </li>
